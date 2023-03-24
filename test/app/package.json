@@ -1,0 +1,18 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Moje webová stránka",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "webová stránka",
+    "node.js",
+    "express"
+  ],
+  "author": "Vaše jméno",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
